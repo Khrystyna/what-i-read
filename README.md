@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <h1>What I Read 📚</h1>
-  <p>Books have always been a big part of my life. They made me believe into magic when I was little. They made me wonder about how huge and different this world is when I was growing up. They keep making me believe in power of love, doing good and following your dreams. They are your friends, teachers and guides ♥️ </p> 
+  <p>Books have always been a big part of my life. They made me believe into magic when I was little. They made me wonder about how huge and different this world is when I was growing up. They keep making me believe in power of love, doing good and following your dreams. They are my friends, teachers and guides ♥️ </p> 
 </div>
 <hr>
 
