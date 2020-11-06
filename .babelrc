@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": ">0.25%, not dead, ie 11, not op_mini all, not android <= 4.4, not samsung <= 4",
+        "modules": false,
+        "useBuiltIns": "usage",
+        "corejs": 3
+      }
+    ]
+  ]
+}

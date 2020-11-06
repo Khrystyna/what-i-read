@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>What I read</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Raleway:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        background: #f5c000;
+        color: #333;
+      }
+
+      h1 {
+        font-family: 'Abril Fatface', cursive;
+        font-size: 40px;
+      }
+
+      a {
+        color: #333;
+      }
+
+      header {
+        margin: 20px 150px;
+        max-width: 800px;
+      }
+
+      main {
+        margin: 80px 150px 20px;
+      }
+
+      blockquote q {
+        font-style: normal;
+      }
+
+      blockquote {
+        font-family: 'Abril Fatface', cursive;
+        position: relative;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        color: #333;
+        width: 400px;
+        height: 400px;
+        border-radius: 100%;
+        box-shadow: 2px 4px 12px #3333337d;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        padding: 50px;
+        background: #fff;
+        flex-direction: column;
+      }
+
+      blockquote:before {
+        content: '';
+        position: absolute;
+        top: -20px;
+        left: -20px;
+        width: 440px;
+        height: 440px;
+        border-radius: 100%;
+        border: 1px solid #fff;
+      }
+
+      blockquote q::before {
+        content: '\201C';
+        position: absolute;
+        top: -44px;
+        left: -67px;
+        font-size: 300px;
+        font-weight: 500;
+      }
+
+      blockquote q::after {
+        content: '\201D';
+        position: absolute;
+        right: -64px;
+        bottom: -182px;
+        font-size: 300px;
+        font-weight: 500;
+      }
+
+      ul {
+        padding: 0;
+      }
+
+      li {
+        list-style: none;
+        margin: 20px 0;
+        position: relative;
+      }
+
+      section {
+        flex: 1;
+        max-width: 400px;
+      }
+
+      .quote {
+        position: absolute;
+        top: 50px;
+        right: 180px;
+      }
+
+      .book-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        max-width: 800px;
+      }
+
+      .legend {
+        max-width: 200px;
+        width: 200px;
+        margin-left: 50px;
+        text-align: left;
+        font-size: 14px;
+      }
+
+      .book.reading::before {
+        content: '📌';
+        position: absolute;
+        left: -25px;
+      }
+
+      .legend .book.reading::before {
+        top: -5px;
+      }
+
+      .book.to-read::before {
+      }
+
+      .book.read {
+        color: #585858;
+      }
+
+      .book.read a {
+        text-decoration: line-through;
+      }
+
+      .book-title {
+        font-family: 'Abril Fatface', cursive;
+        font-size: 24px;
+        text-decoration: none;
+        color: inherit;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>What I read</h1>
+      <p>
+        Books have always been a big part of my life. They made me believe into magic when I was little. They made me
+        wonder about how huge and different this world is when I was growing up. They keep making me believe in power of
+        love, doing good and following your dreams. They are your friends, teachers and guides ❤️
+      </p>
+      <p>
+        <b>My name is Khrystyna Skvarok, welcome to my book reading cabinet! 📚</b>
+      </p>
+      <p>
+        This is a list of books I read, I am reading or will be reading soon. I believe it tells a lot about you - what
+        makes you spark, what is important to you, how you see this world and life around you.
+      </p>
+      <p>
+        If you have any suggestions for me to read, please please please send it to me 🤗 I am always hunting for
+        something interesting to add to my reading list.
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/khrystyna-skvarok/">LinkedIn</a> &bull;
+        <a href="https://twitter.com/barvysta">Twitter</a> &bull; <a href="https://github.com/Khrystyna">Github</a>
+      </p>
+    </header>
+    <main>
+      <section class="quote">
+        <blockquote>
+          <q
+            >"Tell me what you read and I’ll tell you who you are" is true enough, but I’d know you better if you told
+            me what you reread.</q
+          >
+          - François Mauriac
+        </blockquote>
+      </section>
+
+      <div class="book-list">
+        <section>
+          <ul>
+            <li class="book reading">
+              <a
+                class="book-title"
+                href="https://books.google.nl/books?id=vr4AygEACAAJ&dq=powerful+netflix&hl=en&sa=X&ved=2ahUKEwjHj8qH2e3sAhWF_qQKHa7QAvsQ6AEwAHoECAAQAg"
+                >Powerful: Building a Culture of Freedom and Responsibility</a
+              >
+              by Patty McCord
+            </li>
+            <li class="book reading">
+              <a
+                class="book-title"
+                href="https://books.google.nl/books?id=JdlbDwAAQBAJ&dq=dare+to+lead&source=gbs_navlinks_s"
+                >Dare to lead</a
+              >
+              by Brené Brown
+            </li>
+            <li class="book to-read">
+              <a
+                class="book-title"
+                href="https://books.google.nl/books?id=u01ICgAAQBAJ&dq=customer+success&source=gbs_navlinks_s"
+              >
+                Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue</a
+              >
+              by Nick Mehta, Dan Steinman, Lincoln Murphy
+            </li>
+            <li class="book read">
+              <a
+                class="book-title"
+                href="https://books.google.nl/books/about/Start_with_Why.html?id=iyw6ul1x_n8C&redir_esc=y"
+              >
+                Start with Why: How Great Leaders Inspire Everyone to Take Action</a
+              >
+              by Simon Sinek
+            </li>
+            <li class="book read">
+              <a class="book-title" href="https://books.google.nl/books?id=ikl9AwAAQBAJ&dq=scrum&source=gbs_navlinks_s">
+                Scrum: The Art of Doing Twice the Work in Half the Time</a
+              >
+              by Jeff Sutherland, J.J. Sutherland
+            </li>
+            <li class="book read">
+              <a
+                class="book-title"
+                href="https://books.google.nl/books?id=SvIwuX4SVigC&dq=user+stories+applied&source=gbs_navlinks_s"
+              >
+                User Stories Applied: For Agile Software Development</a
+              >
+              by Mike Cohn
+            </li>
+          </ul>
+        </section>
+        <section class="legend">
+          <ul>
+            <li class="book reading">I am reading this book now</li>
+            <li class="book read"><a href="/">I have read this book</a></li>
+            <li class="book to-read">In my reading list</li>
+          </ul>
+        </section>
+      </div>
+    </main>
+
+    <script src="bundle.js"></script>
+  </body>
+</html>
