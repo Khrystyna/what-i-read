@@ -45,12 +45,19 @@
       }
 
       header {
-        margin: 20px 150px;
-        max-width: 800px;
+        display: flex;
+        margin: 20px 20px 20px 80px;
+        justify-content: space-between;
+      }
+
+      header > div {
+        flex: 1;
+        max-width: 600px;
+        margin-right: 150px;
       }
 
       main {
-        margin: 80px 150px 20px;
+        margin: 80px 80px 20px;
       }
 
       blockquote q {
@@ -121,9 +128,9 @@
       }
 
       .quote {
-        position: absolute;
+        position: relative;
         top: 50px;
-        right: 180px;
+        right: 100px;
       }
 
       .book-list {
@@ -169,10 +176,12 @@
         color: inherit;
       }
 
-      @media (max-width: 700px) {
+      @media (max-width: 768px) {
         header {
           margin: 20px 40px;
-          max-width: 800px;
+        }
+        header > div {
+          margin-right: 20px;
         }
 
         main {
@@ -192,29 +201,30 @@
 
   <body>
     <header>
-      <h1>What I read</h1>
-      <p>
-        Books have always been a big part of my life. They made me believe into magic when I was little. They made me
-        wonder about how huge and different this world is when I was growing up. They keep making me believe in power of
-        love, doing good and following your dreams. They are your friends, teachers and guides ❤️
-      </p>
-      <p>
-        <b>My name is Khrystyna Skvarok, welcome to my book reading cabinet! 📚</b>
-      </p>
-      <p>
-        This is a list of books I read, I am reading or will be reading soon. I believe it tells a lot about you - what
-        makes you spark, what is important to you, how you see this world and life around you.
-      </p>
-      <p>
-        If you have any suggestions for me to read, please please please send it to me 🤗 I am always hunting for
-        something interesting to add to my reading list.
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/khrystyna-skvarok/">LinkedIn</a> &bull;
-        <a href="https://twitter.com/barvysta">Twitter</a> &bull; <a href="https://github.com/Khrystyna">Github</a>
-      </p>
-    </header>
-    <main>
+      <div>
+        <h1>What I read</h1>
+        <p>
+          Books have always been a big part of my life. They made me believe into magic when I was little. They made me
+          wonder about how huge and different this world is when I was growing up. They keep making me believe in power
+          of love, doing good and following your dreams. They are your friends, teachers and guides ❤️
+        </p>
+        <p>
+          <b>My name is Khrystyna Skvarok, welcome to my book reading cabinet! 📚</b>
+        </p>
+        <p>
+          This is a list of books I read, I am reading or will be reading soon. I believe it tells a lot about you -
+          what makes you spark, what is important to you, how you see this world and life around you.
+        </p>
+        <p>
+          If you have any suggestions for me to read, please please please send it to me 🤗 I am always hunting for
+          something interesting to add to my reading list.
+        </p>
+        <p>
+          <a href="https://www.linkedin.com/in/khrystyna-skvarok/">LinkedIn</a> &bull;
+          <a href="https://twitter.com/barvysta">Twitter</a> &bull; <a href="https://github.com/Khrystyna">Github</a>
+        </p>
+      </div>
+
       <section class="quote">
         <blockquote>
           <q
@@ -224,7 +234,8 @@
           - François Mauriac
         </blockquote>
       </section>
-
+    </header>
+    <main>
       <div class="book-list">
         <section>
           <ul>
