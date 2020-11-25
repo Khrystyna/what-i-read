@@ -5,7 +5,7 @@
 </div>
 <hr>
 
-Hi, my fellow reader! My name is Khrystyna, welcome to my book reading cabinet!
+Hi, my fellow reader! My name is Khrystyna Skvarok and this is my small digital library!
 
 <a href="https://khrystyna.github.io/what-i-read/">👉 Here 👈</a> you can find a list of books I have read (and i think are interesting to share), I am reading and will be reading soon. I believe it tells a lot about you - what makes you spark, what is important to you, how you see this world and life around you.
 
