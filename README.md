@@ -9,4 +9,4 @@ Hi, my fellow reader! My name is Khrystyna Skvarok and this is my small digital 
 
 <a href="https://khrystyna.github.io/what-i-read/">👉 Here 👈</a> you can find a list of books I have read (and i think are interesting to share), I am reading and will be reading soon. I believe it tells a lot about you - what makes you spark, what is important to you, how you see this world and life around you.
 
-If you have any suggestions for me to read, please please please send it to me 🤗 I am always hunting for something interesting to add to my reading list.
+If you have any suggestions, please please please send it to me 🤗 I am always hunting for something interesting to add to my reading list.
