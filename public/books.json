@@ -1,0 +1,208 @@
+{
+  "books": [
+    {
+      "title": "Powerful: Building a Culture of Freedom and Responsibility",
+      "author": "Patty McCord",
+      "url": "https://books.google.nl/books?id=vr4AygEACAAJ&dq=powerful+netflix&hl=en&sa=X&ved=2ahUKEwjHj8qH2e3sAhWF_qQKHa7QAvsQ6AEwAHoECAAQAg",
+      "status": "reading"
+    },
+    {
+      "title": "Dare to lead",
+      "author": "Brené Brown",
+      "url": "https://books.google.nl/books?id=JdlbDwAAQBAJ&dq=dare+to+lead&source=gbs_navlinks_s",
+      "status": "reading"
+    },
+    {
+      "title": "Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue",
+      "author": "Nick Mehta, Dan Steinman, Lincoln Murphy",
+      "url": "https://books.google.nl/books?id=u01ICgAAQBAJ&dq=customer+success&source=gbs_navlinks_s",
+      "status": "reading"
+    },
+    {
+      "title": "Delivering Happiness: A Path to Profits, Passion, and Purpose",
+      "author": "Tony Hsieh",
+      "url": "https://books.google.nl/books/about/Delivering_Happiness.html?id=RiH9CEQZcOMC&redir_esc=y",
+      "status": "to-read"
+    },
+    {
+      "title": "Good to Great: Why Some Companies Make the Leap and Others Don't",
+      "author": "James Charles Collins, Jim Collins",
+      "url": "https://books.google.nl/books?id=xN-xvQ7PbloC&dq=good+to+great&hl=en&sa=X&ved=2ahUKEwjTrois4Z_tAhUJ3aQKHbL5CtUQ6AEwAHoECAIQAg",
+      "status": "to-read"
+    },
+    {
+      "title": "The SaaS Sales Method: Sales As a Science",
+      "author": "Jacco van der Kooij",
+      "url": "https://www.amazon.com/SaaS-Sales-Method-Science-Blueprints-ebook/dp/B07HKL3L2R",
+      "status": "to-read"
+    },
+    {
+      "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+      "author": "Jocko Willink",
+      "url": "https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2",
+      "status": "to-read"
+    },
+    {
+      "title": "The Regenerative Business: Redesign Work, Cultivate Human Potential, Achieve Extraordinary Outcomes",
+      "author": "Carol Sanford",
+      "url": "https://www.amazon.com/Regenerative-Business-Cultivate-Potential-Extraordinary/dp/1473669103",
+      "status": "to-read"
+    },
+    {
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "url": "https://www.goodreads.com/book/show/106835.The_Intelligent_Investor",
+      "status": "to-read"
+    },
+    {
+      "title": "The Offer You Can't Refuse: What If Customers Want More Than Excellent Service?",
+      "author": "Steven Van Belleghem",
+      "url": "https://www.goodreads.com/book/show/52826981-the-offer-you-can-t-refuse",
+      "status": "to-read"
+    },
+    {
+      "title": "Polarity Management: Identifying and Managing Unsolvable Problems",
+      "author": "Barry Johnson",
+      "url": "https://www.goodreads.com/book/show/288117.Polarity_Management",
+      "status": "to-read"
+    },
+    {
+      "title": "Principles: Life and Work",
+      "author": "Ray Dalio",
+      "url": "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021",
+      "status": "to-read"
+    },
+    {
+      "title": "Making Work Human: How Human-Centered Companies are Changing the Future of Work and the World",
+      "author": "Eric Mosley, Derek Irvine",
+      "url": "https://www.amazon.nl/Making-Work-Human-Human-Centered-Companies-ebook/dp/B0829924VQ",
+      "status": "to-read"
+    },
+    {
+      "title": "Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams",
+      "author": "Mickey W. Mantle, Ron Lichty",
+      "url": "https://books.google.nl/books?id=jZSS2uUi2zMC&dq=unmanageable&source=gbs_navlinks_s",
+      "status": "to-read"
+    },
+    {
+      "title": "Radical Candor: How to Get What You Want by Saying What You Mean",
+      "author": "Kim Scott",
+      "url": "https://books.google.nl/books?id=zbYDDQAAQBAJ&dq=radical+condor&source=gbs_navlinks_s",
+      "status": "to-read"
+    },
+    {
+      "title": "Let My People Go Surfing: The Education of a Reluctant Businessman",
+      "author": "Yvon Chouinard",
+      "url": "https://books.google.nl/books?id=Om98RYbp-8sC&dq=let+my+people+go+surfing&source=gbs_navlinks_s",
+      "status": "to-read"
+    },
+    {
+      "title": "Inspired: How to Create Tech Products Customers Love",
+      "author": "Marty Cagan",
+      "url": "https://books.google.nl/books?id=H6x-DwAAQBAJ&dq=phenix+project&source=gbs_navlinks_s",
+      "status": "to-read"
+    },
+    {
+      "title": "Managing Oneself",
+      "author": "Peter Drucker",
+      "url": "https://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X",
+      "status": "to-read"
+    },
+    {
+      "title": "HBR's 10 Must Reads for New Managers",
+      "author": "Daniel Goleman",
+      "url": "https://www.amazon.com/Managers-Become-Leaders-Michael-Watkins/dp/1633693023/ref=sr_1_1?dchild=1&keywords=HBR%27s+10+Must+Reads+for+New+Managers&qid=1607069990&sr=8-1",
+      "status": "to-read"
+    },
+    {
+      "title": "Making Work Human: How Human-Centered Companies are Changing the Future of Work and the World",
+      "author": "Eric Mosley",
+      "url": "https://www.amazon.com/Making-Work-Human-Human-Centered-Companies/dp/1260464202#:~:text=From%20the%20pioneers%20of%20the,profitability%2C%20and%20drive%20business%20momentum.",
+      "status": "to-read"
+    },
+    {
+      "title": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+      "author": "Gene Kim, Kevin Behr, George Spafford",
+      "url": "https://books.google.nl/books?id=0lU8DwAAQBAJ&dq=inspired&source=gbs_navlinks_s",
+      "status": "to-read"
+    },
+    {
+      "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+      "author": "Camille Fournier",
+      "url": "https://books.google.nl/books/about/The_Manager_s_Path.html?id=xeUpMQAACAAJ&redir_esc=y",
+      "status": "to-read"
+    },
+    {
+      "title": "Atomic Habits: Tiny Changes, Remarkable Results : an Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear",
+      "url": "https://books.google.nl/books?id=XfFvDwAAQBAJ&dq=atomic+habits&hl=en&sa=X&ved=2ahUKEwi3x83Gx_fsAhWLyYUKHaSSDwoQ6AEwAHoECAAQAg",
+      "status": "to-read"
+    },
+    {
+      "title": "This Is Going to Hurt: Secret Diaries of a Junior Doctor",
+      "author": "Adam Kay",
+      "url": "https://www.amazon.nl/gp/product/1509899472/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
+      "status": "to-read"
+    },
+    {
+      "title": "When Breath Becomes Air: Kalanithi Paul",
+      "author": "Paul Kalanithi",
+      "url": "https://www.amazon.nl/gp/product/1784701998/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
+      "status": "to-read"
+    },
+    {
+      "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+      "author": "Chris Voss, Tahl Raz",
+      "url": "https://books.google.nl/books/about/Never_Split_the_Difference.html?id=RmdqCgAAQBAJ&redir_esc=y",
+      "status": "read"
+    },
+    {
+      "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+      "author": "Simon Sinek",
+      "url": "https://books.google.nl/books/about/Start_with_Why.html?id=iyw6ul1x_n8C&redir_esc=y",
+      "status": "read"
+    },
+    {
+      "title": "Rework",
+      "author": "Jason Fried, David Heinemeier Hansson",
+      "url": "https://books.google.nl/books/about/Rework.html?id=U77um_h_dgcC&redir_esc=y",
+      "status": "read"
+    },
+    {
+      "title": "Remote: Office Not Required",
+      "author": "Jason Fried, David Heinemeier Hansson",
+      "url": "https://books.google.nl/books?id=KeJE7Tyl6o8C&dq=remote+book&source=gbs_navlinks_s",
+      "status": "read"
+    },
+    {
+      "title": "Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application",
+      "author": "37signals",
+      "url": "https://books.google.nl/books?id=NIZNQwAACAAJ&dq=getting+real+book&hl=en&sa=X&ved=2ahUKEwjjzJG6sp3tAhVO3qQKHbWIBd0Q6AEwAHoECAEQAg",
+      "status": "read"
+    },
+    {
+      "title": "Scrum: The Art of Doing Twice the Work in Half the Time",
+      "author": "Jeff Sutherland, J.J. Sutherland",
+      "url": "https://books.google.nl/books?id=ikl9AwAAQBAJ&dq=scrum&source=gbs_navlinks_s",
+      "status": "read"
+    },
+    {
+      "title": "Do No Harm: Stories of Life, Death and Brain Surgery",
+      "author": "Henry Marsh",
+      "url": "https://www.amazon.nl/Do-No-Harm-Stories-Surgery/dp/178022592X/ref=asc_df_178022592X/?tag=nlshogostdde-21&linkCode=df0&hvadid=430545454060&hvpos=&hvnetw=g&hvrand=11240553675139187033&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-405693453325&psc=1",
+      "status": "read"
+    },
+    {
+      "title": "User Stories Applied: For Agile Software Development",
+      "author": "Mike Cohn",
+      "url": "https://books.google.nl/books?id=SvIwuX4SVigC&dq=user+stories+applied&source=gbs_navlinks_s",
+      "status": "read"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+      "author": "Mark Manson",
+      "url": "https://books.google.nl/books?id=yng_CwAAQBAJ&dq=subtle+art+of+not+giving+a+f&source=gbs_navlinks_s",
+      "status": "read"
+    }
+  ]
+}
