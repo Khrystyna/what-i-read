@@ -1,22 +1,22 @@
 {
   "books": [
     {
-      "title": "Powerful: Building a Culture of Freedom and Responsibility",
-      "author": "Patty McCord",
-      "url": "https://books.google.nl/books?id=vr4AygEACAAJ&dq=powerful+netflix&hl=en&sa=X&ved=2ahUKEwjHj8qH2e3sAhWF_qQKHa7QAvsQ6AEwAHoECAAQAg",
-      "status": "reading"
-    },
-    {
       "title": "Dare to lead",
       "author": "Brené Brown",
       "url": "https://books.google.nl/books?id=JdlbDwAAQBAJ&dq=dare+to+lead&source=gbs_navlinks_s",
       "status": "reading"
     },
     {
-      "title": "Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue",
-      "author": "Nick Mehta, Dan Steinman, Lincoln Murphy",
-      "url": "https://books.google.nl/books?id=u01ICgAAQBAJ&dq=customer+success&source=gbs_navlinks_s",
+      "title": "Managing Oneself (Harvard Business Review Classics)",
+      "author": "Peter F Drucker",
+      "url": "https,://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X",
       "status": "reading"
+    },
+    {
+      "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+      "author": "Reed Hastings, Erin Meyer",
+      "url": "https://www.goodreads.com/book/show/49099937-no-rules-rules",
+      "status": "to-read"
     },
     {
       "title": "Delivering Happiness: A Path to Profits, Passion, and Purpose",
@@ -103,12 +103,6 @@
       "status": "to-read"
     },
     {
-      "title": "Managing Oneself",
-      "author": "Peter Drucker",
-      "url": "https://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X",
-      "status": "to-read"
-    },
-    {
       "title": "HBR's 10 Must Reads for New Managers",
       "author": "Daniel Goleman",
       "url": "https://www.amazon.com/Managers-Become-Leaders-Michael-Watkins/dp/1633693023/ref=sr_1_1?dchild=1&keywords=HBR%27s+10+Must+Reads+for+New+Managers&qid=1607069990&sr=8-1",
@@ -155,6 +149,18 @@
       "author": "Paul Kalanithi",
       "url": "https://www.amazon.nl/gp/product/1784701998/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
       "status": "to-read"
+    },
+    {
+      "title": "Powerful: Building a Culture of Freedom and Responsibility",
+      "author": "Patty McCord",
+      "url": "https://books.google.nl/books?id=vr4AygEACAAJ&dq=powerful+netflix&hl=en&sa=X&ved=2ahUKEwjHj8qH2e3sAhWF_qQKHa7QAvsQ6AEwAHoECAAQAg",
+      "status": "read"
+    },
+    {
+      "title": "Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue",
+      "author": "Nick Mehta, Dan Steinman, Lincoln Murphy",
+      "url": "https://books.google.nl/books?id=u01ICgAAQBAJ&dq=customer+success&source=gbs_navlinks_s",
+      "status": "read"
     },
     {
       "title": "Getting Naked: A Business Fable About Shedding The Three Fears That Sabotage Client Loyalty",
