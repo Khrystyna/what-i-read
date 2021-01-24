@@ -16,6 +16,7 @@ fetchBooks().catch(err => {
 
 window.onload = function() {
   const bookList = document.getElementById('bookList');
+  bookList.innerHTML = '';
   books.map(book => {
     bookList.innerHTML += `<li class="book ${book.status}"><a class="book-title" href="${book.url}">${book.title}</a> by ${book.author}</li>`;
   });
