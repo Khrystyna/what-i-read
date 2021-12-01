@@ -91,12 +91,6 @@
       "status": "to-read"
     },
     {
-      "title": "Inspired: How to Create Tech Products Customers Love",
-      "author": "Marty Cagan",
-      "url": "https://books.google.nl/books?id=H6x-DwAAQBAJ&dq=phenix+project&source=gbs_navlinks_s",
-      "status": "to-read"
-    },
-    {
       "title": "HBR's 10 Must Reads for New Managers",
       "author": "Daniel Goleman",
       "url": "https://www.amazon.com/Managers-Become-Leaders-Michael-Watkins/dp/1633693023/ref=sr_1_1?dchild=1&keywords=HBR%27s+10+Must+Reads+for+New+Managers&qid=1607069990&sr=8-1",
@@ -137,6 +131,12 @@
       "author": "Adam Kay",
       "url": "https://www.amazon.nl/gp/product/1509899472/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
       "status": "to-read"
+    },
+    {
+      "title": "Inspired: How to Create Tech Products Customers Love",
+      "author": "Marty Cagan",
+      "url": "https://books.google.nl/books?id=H6x-DwAAQBAJ&dq=phenix+project&source=gbs_navlinks_s",
+      "status": "read"
     },
     {
       "title": "When Breath Becomes Air: Kalanithi Paul",
