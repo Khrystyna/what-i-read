@@ -1,9 +1,9 @@
 {
   "books": [
     {
-      "title": "Dare to lead",
-      "author": "Brené Brown",
-      "url": "https://books.google.nl/books?id=JdlbDwAAQBAJ&dq=dare+to+lead&source=gbs_navlinks_s",
+      "title": "Making Work Human",
+      "author": "Eric Mosley",
+      "url": "https://www.amazon.nl/Making-Work-Human-Human-Centered-Companies/dp/1260464202",
       "status": "reading"
     },
     {
@@ -11,6 +11,18 @@
       "author": "Peter F Drucker",
       "url": "https,://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X",
       "status": "reading"
+    },
+    {
+      "title": "Continuous Discovery Habits",
+      "author": "Teresa Torres",
+      "url": "https://www.bol.com/nl/nl/p/continuous-discovery-habits/9300000038788101/?s2a=#productTitle",
+      "status": "to-read"
+    },
+    {
+      "title": "Escaping the Build Trap",
+      "author": "Melissa Perri",
+      "url": "https://www.bol.com/nl/nl/p/escaping-the-build-trap/9200000072521371/?bltgh=mGKxt97N8lK8-fsTF-tJBw.2.5.ProductImage",
+      "status": "to-read"
     },
     {
       "title": "No Rules Rules: Netflix and the Culture of Reinvention",
@@ -131,6 +143,12 @@
       "author": "Adam Kay",
       "url": "https://www.amazon.nl/gp/product/1509899472/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
       "status": "to-read"
+    },
+    {
+      "title": "Dare to lead",
+      "author": "Brené Brown",
+      "url": "https://books.google.nl/books?id=JdlbDwAAQBAJ&dq=dare+to+lead&source=gbs_navlinks_s",
+      "status": "read"
     },
     {
       "title": "Inspired: How to Create Tech Products Customers Love",
