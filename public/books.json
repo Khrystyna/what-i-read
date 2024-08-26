@@ -1,21 +1,21 @@
 {
   "books": [
     {
+      "title": "Dune. Messiah",
+      "author": "Frank Herbert",
+      "url": "https://a.co/d/78K0AfJ",
+      "status": "reading"
+    },
+    {
+      "title": "The Gifts of Imperfection",
+      "author": "Brené Brown",
+      "url": "https://www.bol.com/nl/nl/p/the-gifts-of-imperfection/9300000045081101/?s2a=",
+      "status": "reading"
+    },
+    {
       "title": "Making Work Human",
       "author": "Eric Mosley",
       "url": "https://www.amazon.nl/Making-Work-Human-Human-Centered-Companies/dp/1260464202",
-      "status": "reading"
-    },
-    {
-      "title": "Managing Oneself (Harvard Business Review Classics)",
-      "author": "Peter F Drucker",
-      "url": "https,://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X",
-      "status": "reading"
-    },
-    {
-      "title": "Continuous Discovery Habits",
-      "author": "Teresa Torres",
-      "url": "https://www.bol.com/nl/nl/p/continuous-discovery-habits/9300000038788101/?s2a=#productTitle",
       "status": "to-read"
     },
     {
@@ -149,6 +149,30 @@
       "author": "Adam Kay",
       "url": "https://www.amazon.nl/gp/product/1509899472/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
       "status": "to-read"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "url": "https://a.co/d/78K0AfJ",
+      "status": "read"
+    },
+    {
+      "title": "Continuous Discovery Habits",
+      "author": "Teresa Torres",
+      "url": "https://www.bol.com/nl/nl/p/continuous-discovery-habits/9300000038788101/?s2a=#productTitle",
+      "status": "read"
+    },
+    {
+      "title": "Powerful. Building a Culture of Freedom and Responsibility",
+      "author": "Patty McCord",
+      "url": "https://www.amazon.com/-/en/Patty-McCord/dp/1939714095",
+      "status": "read"
+    },
+    {
+      "title": "Managing Oneself (Harvard Business Review Classics)",
+      "author": "Peter F Drucker",
+      "url": "https,://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X",
+      "status": "read"
     },
     {
       "title": "Dare to lead",
