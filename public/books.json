@@ -19,21 +19,9 @@
       "status": "to-read"
     },
     {
-      "title": "Escaping the Build Trap",
-      "author": "Melissa Perri",
-      "url": "https://www.bol.com/nl/nl/p/escaping-the-build-trap/9200000072521371/?bltgh=mGKxt97N8lK8-fsTF-tJBw.2.5.ProductImage",
-      "status": "to-read"
-    },
-    {
       "title": "The Mom test",
       "author": "Rob Fitzpatrick",
       "url": "https://www.amazon.nl/-/en/Rob-Fitzpatrick/dp/1492180742",
-      "status": "to-read"
-    },
-    {
-      "title": "No Rules Rules: Netflix and the Culture of Reinvention",
-      "author": "Reed Hastings, Erin Meyer",
-      "url": "https://www.goodreads.com/book/show/49099937-no-rules-rules",
       "status": "to-read"
     },
     {
@@ -85,18 +73,6 @@
       "status": "to-read"
     },
     {
-      "title": "Making Work Human: How Human-Centered Companies are Changing the Future of Work and the World",
-      "author": "Eric Mosley, Derek Irvine",
-      "url": "https://www.amazon.nl/Making-Work-Human-Human-Centered-Companies-ebook/dp/B0829924VQ",
-      "status": "to-read"
-    },
-    {
-      "title": "Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams",
-      "author": "Mickey W. Mantle, Ron Lichty",
-      "url": "https://books.google.nl/books?id=jZSS2uUi2zMC&dq=unmanageable&source=gbs_navlinks_s",
-      "status": "to-read"
-    },
-    {
       "title": "Radical Candor: How to Get What You Want by Saying What You Mean",
       "author": "Kim Scott",
       "url": "https://books.google.nl/books?id=zbYDDQAAQBAJ&dq=radical+condor&source=gbs_navlinks_s",
@@ -139,33 +115,21 @@
       "status": "to-read"
     },
     {
-      "title": "Atomic Habits: Tiny Changes, Remarkable Results : an Easy & Proven Way to Build Good Habits & Break Bad Ones",
-      "author": "James Clear",
-      "url": "https://books.google.nl/books?id=XfFvDwAAQBAJ&dq=atomic+habits&hl=en&sa=X&ved=2ahUKEwi3x83Gx_fsAhWLyYUKHaSSDwoQ6AEwAHoECAAQAg",
-      "status": "to-read"
+      "title": "Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams",
+      "author": "Mickey W. Mantle, Ron Lichty",
+      "url": "https://books.google.nl/books?id=jZSS2uUi2zMC&dq=unmanageable&source=gbs_navlinks_s",
+      "status": "read"
     },
     {
-      "title": "This Is Going to Hurt: Secret Diaries of a Junior Doctor",
-      "author": "Adam Kay",
-      "url": "https://www.amazon.nl/gp/product/1509899472/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
-      "status": "to-read"
-    },
-    {
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "url": "https://a.co/d/78K0AfJ",
+      "title": "Shape Up",
+      "author": "Ryan Singer",
+      "url": "https://basecamp.com/books#shapeup",
       "status": "read"
     },
     {
       "title": "Continuous Discovery Habits",
       "author": "Teresa Torres",
       "url": "https://www.bol.com/nl/nl/p/continuous-discovery-habits/9300000038788101/?s2a=#productTitle",
-      "status": "read"
-    },
-    {
-      "title": "Powerful. Building a Culture of Freedom and Responsibility",
-      "author": "Patty McCord",
-      "url": "https://www.amazon.com/-/en/Patty-McCord/dp/1939714095",
       "status": "read"
     },
     {
@@ -187,6 +151,18 @@
       "status": "read"
     },
     {
+      "title": "Empowered: Ordinary People, Extraordinary Products",
+      "author": "Marty Cagan",
+      "url": "https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X",
+      "status": "read"
+    },
+    {
+      "title": "Transformed: Moving to the Product Operating Model",
+      "author": "Marty Cagan",
+      "url": "https://www.amazon.com/Transformed-Moving-Product-Operating-Model/dp/B0CV5XFVRD",
+      "status": "read"
+    },
+    {
       "title": "When Breath Becomes Air: Kalanithi Paul",
       "author": "Paul Kalanithi",
       "url": "https://www.amazon.nl/gp/product/1784701998/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
@@ -196,6 +172,30 @@
       "title": "Powerful: Building a Culture of Freedom and Responsibility",
       "author": "Patty McCord",
       "url": "https://books.google.nl/books?id=vr4AygEACAAJ&dq=powerful+netflix&hl=en&sa=X&ved=2ahUKEwjHj8qH2e3sAhWF_qQKHa7QAvsQ6AEwAHoECAAQAg",
+      "status": "read"
+    },
+    {
+      "title": "Atomic Habits: Tiny Changes, Remarkable Results : an Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear",
+      "url": "https://books.google.nl/books?id=XfFvDwAAQBAJ&dq=atomic+habits&hl=en&sa=X&ved=2ahUKEwi3x83Gx_fsAhWLyYUKHaSSDwoQ6AEwAHoECAAQAg",
+      "status": "read"
+    },
+    {
+      "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+      "author": "Reed Hastings, Erin Meyer",
+      "url": "https://www.goodreads.com/book/show/49099937-no-rules-rules",
+      "status": "read"
+    },
+    {
+      "title": "This Is Going to Hurt: Secret Diaries of a Junior Doctor",
+      "author": "Adam Kay",
+      "url": "https://www.amazon.nl/gp/product/1509899472/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
+      "status": "read"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "url": "https://a.co/d/78K0AfJ",
       "status": "read"
     },
     {
@@ -250,12 +250,6 @@
       "title": "Do No Harm: Stories of Life, Death and Brain Surgery",
       "author": "Henry Marsh",
       "url": "https://www.amazon.nl/Do-No-Harm-Stories-Surgery/dp/178022592X/ref=asc_df_178022592X/?tag=nlshogostdde-21&linkCode=df0&hvadid=430545454060&hvpos=&hvnetw=g&hvrand=11240553675139187033&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065300&hvtargid=pla-405693453325&psc=1",
-      "status": "read"
-    },
-    {
-      "title": "User Stories Applied: For Agile Software Development",
-      "author": "Mike Cohn",
-      "url": "https://books.google.nl/books?id=SvIwuX4SVigC&dq=user+stories+applied&source=gbs_navlinks_s",
       "status": "read"
     },
     {
